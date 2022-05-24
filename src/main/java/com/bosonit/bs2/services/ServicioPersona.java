@@ -1,8 +1,7 @@
-package com.bosonit.bs2;
+package com.bosonit.bs2.services;
 
+import com.bosonit.bs2.entities.Persona;
 import org.springframework.stereotype.Service;
-
-import java.util.Optional;
 
 @Service
 public class ServicioPersona {

@@ -1,4 +1,4 @@
-package com.bosonit.bs2;
+package com.bosonit.bs2.entities;
 
 public class Persona {
     public String nombre;
