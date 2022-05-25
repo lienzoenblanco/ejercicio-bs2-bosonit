@@ -5,7 +5,6 @@ public class Persona {
     public String poblacion;
     public int edad;
 
-
     public Persona(String nombre, String poblacion, int edad) {
         this.nombre = nombre;
         this.poblacion = poblacion;
